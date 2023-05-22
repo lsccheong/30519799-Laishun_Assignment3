@@ -3,7 +3,7 @@
     "path": "~/Desktop/30519799-Laishun_Assignment3/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "4261824066",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684716875620.0,
@@ -16,11 +16,11 @@
         "scrollLine": "16"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684716886,
+    "lastKnownWriteTime": 1684717342,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684716886268,
+    "last_content_update": 1684717342,
     "read_only": false,
     "read_only_alternatives": []
 }
